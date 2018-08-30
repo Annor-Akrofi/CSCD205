@@ -1,3 +1,5 @@
+/* A simple program to check if a number is prime */
+
 #include<iostream>
 using namespace std;
 
